@@ -1,0 +1,21 @@
+﻿# Dependencies
+Backendd/node_modules/
+frontendd/node_modules/
+
+# Logs
+*.log
+
+# Env
+.env
+
+# Build
+dist/
+build/
+coverage/
+.cache/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
